@@ -11,6 +11,10 @@
       "2": "adventure"
     }
   },
+  "hardcore": {
+    "env": "HARDCORE",
+    "allowed": ["true", "false"]
+  },
   "force-gamemode": {
     "env": "FORCE_GAMEMODE",
     "allowed": ["true", "false"]
